@@ -9,9 +9,12 @@ cd bolt.newer
 pip install -r requirements.txt
 ```
 
+And run the project with:
+`python main.py`
+
 COMING SOON
   1. A web based GUI hosted locally
   2. Wider range of model support (currently you can just add it yourself and add a pull req)
   3. Possibly add a computer use agent powered by E2B/scrapybara
 
-Contact imjustbetterxd12@gmail if you have any suggestions!
+Contact imjustbetterxd12@gmail.com if you have any suggestions!
