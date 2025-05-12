@@ -1,7 +1,9 @@
 This project is inspired by bolt.new, lovable.dev, v0.dev and much more! This project features an AI powered project builder console-based. I'm planning to add a GUI soon, if any suggestions arise, please contact imjustbetterxd12@gmail.com.
 
 To get started: start by cloning this repo:
-`git clone https://github.com/Sjdjdiejdrirhdkjej/bolt.newer.git`
+```
+git clone https://github.com/Sjdjdiejdrirhdkjej/bolt.newer.git
+```
 
 To install dependencies is easy, as they are not heavyweight like playwright and transformers.
 ```
